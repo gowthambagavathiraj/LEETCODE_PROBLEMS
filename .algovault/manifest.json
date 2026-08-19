@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-19T17:16:18.980Z",
+  "lastUpdated": "2026-08-19T17:17:26.442Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -16,9 +16,9 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1787159778980,
+          "syncedAt": 1787159846442,
           "runtime": "2 ms",
-          "memory": "45.2 MB",
+          "memory": "44.8 MB",
           "githubPath": "Array/Intersection of Two Arrays/"
         }
       }
