@@ -37,6 +37,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+
+</details>
+
+
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>

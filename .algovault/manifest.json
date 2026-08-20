@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20T16:00:08.616Z",
+  "lastUpdated": "2026-08-20T16:00:58.732Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -166,6 +166,24 @@
           "runtime": "N/A",
           "memory": "N/A",
           "githubPath": "Math/Add Digits/"
+        }
+      }
+    },
+    "word-pattern": {
+      "questionId": "290",
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1787241658732,
+          "runtime": "1 ms",
+          "memory": "42.6 MB",
+          "githubPath": "Hash Table/Word Pattern/"
         }
       }
     }
