@@ -56,6 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 
 </details>
 
