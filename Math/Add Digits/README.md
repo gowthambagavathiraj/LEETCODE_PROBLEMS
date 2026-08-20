@@ -5,37 +5,52 @@
 
 ## Problem Statement
 
-<p>Given an integer <code>num</code>, repeatedly add all its digits until the result has only one digit, and return it.</p>
+Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> num = 38
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> The process is
-38 --&gt; 3 + 8 --&gt; 11
-11 --&gt; 1 + 1 --&gt; 2 
+Input: num = 38
+Output: 2
+Explanation: The process is
+38 --> 3 + 8 --> 11
+11 --> 1 + 1 --> 2 
 Since 2 has only one digit, return it.
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> num = 0
-<strong>Output:</strong> 0
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: num = 0
+Output: 0
 
-<ul>
-	<li><code>0 &lt;= num &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
 
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Could you do it without any loop/recursion in <code>O(1)</code> runtime?</p>
+ 
+Constraints:
 
+
+	0 <= num <= 231 - 1
+
+
+ 
+Follow up: Could you do it without any loop/recursion in O(1) runtime?
+
+## Examples
+
+```
+Input: num = 38
+Output: 2
+Explanation: The process is
+38 --> 3 + 8 --> 11
+11 --> 1 + 1 --> 2 
+Since 2 has only one digit, return it.
+
+Input: num = 0
+Output: 0
+```
+
+## Constraints
+
+- 0 <= num <= 231 - 1
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
