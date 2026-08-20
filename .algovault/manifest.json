@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-19T17:34:15.151Z",
+  "lastUpdated": "2026-08-20T15:57:45.456Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -129,6 +129,24 @@
           "runtime": "2 ms",
           "memory": "72.3 MB",
           "githubPath": "Array/Product of Array Except Self/"
+        }
+      }
+    },
+    "house-robber": {
+      "questionId": "198",
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1787241465456,
+          "runtime": "0 ms",
+          "memory": "42.8 MB",
+          "githubPath": "Array/House Robber/"
         }
       }
     }
