@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20T15:57:45.456Z",
+  "lastUpdated": "2026-08-20T15:59:49.680Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -147,6 +147,25 @@
           "runtime": "0 ms",
           "memory": "42.8 MB",
           "githubPath": "Array/House Robber/"
+        }
+      }
+    },
+    "add-digits": {
+      "questionId": "258",
+      "title": "Add Digits",
+      "titleSlug": "add-digits",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Simulation",
+        "Number Theory"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1787241589680,
+          "runtime": "0 ms",
+          "memory": "40.8 MB",
+          "githubPath": "Math/Add Digits/"
         }
       }
     }
