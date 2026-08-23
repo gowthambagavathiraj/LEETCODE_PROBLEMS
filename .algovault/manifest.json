@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20T16:02:08.952Z",
+  "lastUpdated": "2026-08-23T07:05:59.303Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -203,6 +203,25 @@
           "runtime": "N/A",
           "memory": "N/A",
           "githubPath": "Math/Fizz Buzz/"
+        }
+      }
+    },
+    "multiply-strings": {
+      "questionId": "43",
+      "title": "Multiply Strings",
+      "titleSlug": "multiply-strings",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "solutions": {
+        "1234567891011121314151617181920class solution {    public string multiply(string num1, string num2) {        if (num1.equals(\"0\") || num2.equals(\"0\"))            return \"0\";        int[] arr = new int[num1.length() + num2.length()];        for (int i = num1.length() - 1; i >= 0; i--) {            for (int j = num2.length() - 1; j >= 0; j--) {                int a = num1.charat(i) - '0';                int b = num2.charat(j) - '0';                int product = a * b;                int p1 = i + j;                int p2 = i + j + 1;                int sum = product + arr[p2];": {
+          "syncedAt": 1787468759303,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "Math/Multiply Strings/"
         }
       }
     }
