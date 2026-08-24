@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 3452 | [Sum of Good Numbers](./Array/Sum%20of%20Good%20Numbers/) | Easy |
 
 </details>
 
