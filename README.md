@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 3452 | [Sum of Good Numbers](./Array/Sum%20of%20Good%20Numbers/) | Easy |
+| 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 
 </details>
 
