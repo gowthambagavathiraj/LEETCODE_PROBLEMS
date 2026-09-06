@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
