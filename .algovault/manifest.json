@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-07T12:00:57.871Z",
+  "lastUpdated": "2026-09-08T13:05:49.424Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -364,6 +364,23 @@
           "runtime": "135 ms",
           "memory": "46.87 MB",
           "githubPath": "String/Valid Parentheses/"
+        }
+      }
+    },
+    "count-commas-in-range": {
+      "questionId": "3870",
+      "title": "Count Commas in Range",
+      "titleSlug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "tags": [
+        "Math"
+      ],
+      "solutions": {
+        "12345678910111213class solution {    public int countcommas(int n) {        int count = 0;        for (int i = 1; i <= n; i++) {            if (i >= 1000) {                count++;            }        }        return count;    }}": {
+          "syncedAt": 1788872749424,
+          "runtime": "0 ms",
+          "memory": "N/A",
+          "githubPath": "Math/Count Commas in Range/"
         }
       }
     }
