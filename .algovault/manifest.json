@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-08T13:10:37.457Z",
+  "lastUpdated": "2026-09-16T16:03:39.428Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -381,6 +381,28 @@
           "runtime": "0 ms",
           "memory": "N/A",
           "githubPath": "Math/Count Commas in Range/"
+        }
+      }
+    },
+    "nim-game": {
+      "questionId": "292",
+      "title": "Nim Game",
+      "titleSlug": "nim-game",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Brainteaser",
+        "Minimax",
+        "Game Theory",
+        "Nim Game",
+        "Impartial Game"
+      ],
+      "solutions": {
+        "123456789class solution {    public boolean canwinnim(int n) {                if (n % 4 != 0)            return true;        else            return false;    }}": {
+          "syncedAt": 1789574619428,
+          "runtime": "0 ms",
+          "memory": "N/A",
+          "githubPath": "Math/Nim Game/"
         }
       }
     }
