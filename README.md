@@ -31,6 +31,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+
+</details>
+
+
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
