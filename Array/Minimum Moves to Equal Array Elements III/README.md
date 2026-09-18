@@ -5,60 +5,70 @@
 
 ## Problem Statement
 
-<p>You are given an integer array <code>nums</code>.</p>
+You are given an integer array nums.
 
-<p>In one move, you may <strong>increase</strong> the value of any single element <code>nums[i]</code> by 1.</p>
+In one move, you may increase the value of any single element nums[i] by 1.
 
-<p>Return the <strong>minimum total</strong> number of <strong>moves</strong> required so that all elements in <code>nums</code> become <strong>equal</strong>.</p>
+Return the minimum total number of moves required so that all elements in nums become equal.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [2,1,3]</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">3</span></p>
+Input: nums = [2,1,3]
 
-<p><strong>Explanation:</strong></p>
+Output: 3
 
-<p>To make all elements equal:</p>
+Explanation:
 
-<ul>
-	<li>Increase <code>nums[0] = 2</code> by 1 to make it 3.</li>
-	<li>Increase <code>nums[1] = 1</code> by 1 to make it 2.</li>
-	<li>Increase <code>nums[1] = 2</code> by 1 to make it 3.</li>
-</ul>
+To make all elements equal:
 
-<p>Now, all elements of <code>nums</code> are equal to 3. The minimum total moves is <code>3</code>.</p>
-</div>
 
-<p><strong class="example">Example 2:</strong></p>
+	Increase nums[0] = 2 by 1 to make it 3.
+	Increase nums[1] = 1 by 1 to make it 2.
+	Increase nums[1] = 2 by 1 to make it 3.
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [4,4,5]</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">2</span></p>
+Now, all elements of nums are equal to 3. The minimum total moves is 3.
 
-<p><strong>Explanation:</strong></p>
 
-<p>To make all elements equal:</p>
+Example 2:
 
-<ul>
-	<li>Increase <code>nums[0] = 4</code> by 1 to make it 5.</li>
-	<li>Increase <code>nums[1] = 4</code> by 1 to make it 5.</li>
-</ul>
 
-<p>Now, all elements of <code>nums</code> are equal to 5. The minimum total moves is <code>2</code>.</p>
-</div>
+Input: nums = [4,4,5]
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Output: 2
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
-</ul>
+Explanation:
 
+To make all elements equal:
+
+
+	Increase nums[0] = 4 by 1 to make it 5.
+	Increase nums[1] = 4 by 1 to make it 5.
+
+
+Now, all elements of nums are equal to 5. The minimum total moves is 2.
+
+
+ 
+Constraints:
+
+
+	1 <= nums.length <= 100
+	1 <= nums[i] <= 100
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- Increase nums[0] = 2 by 1 to make it 3.
+- Increase nums[1] = 1 by 1 to make it 2.
+- Increase nums[1] = 2 by 1 to make it 3.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
