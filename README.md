@@ -27,6 +27,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2395 | [Find Subarrays With Equal Sum](./Array/Find%20Subarrays%20With%20Equal%20Sum/) | Easy |
 | 3452 | [Sum of Good Numbers](./Array/Sum%20of%20Good%20Numbers/) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III/) | Easy |
 
 </details>
 
