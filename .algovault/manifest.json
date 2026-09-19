@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-18T16:41:54.141Z",
+  "lastUpdated": "2026-09-19T12:29:16.715Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -462,6 +462,24 @@
           "runtime": "1 ms",
           "memory": "N/A",
           "githubPath": "Array/Minimum Moves to Equal Array Elements III/"
+        }
+      }
+    },
+    "string-compression": {
+      "questionId": "443",
+      "title": "String Compression",
+      "titleSlug": "string-compression",
+      "difficulty": "Easy",
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "solutions": {
+        "12345class solution {    public int compress(char[] chars) {            }}": {
+          "syncedAt": 1789820956715,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "Two Pointers/String Compression/"
         }
       }
     }
