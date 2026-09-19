@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-19T12:29:16.715Z",
+  "lastUpdated": "2026-09-19T12:29:23.891Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -465,21 +465,21 @@
         }
       }
     },
-    "string-compression": {
-      "questionId": "443",
-      "title": "String Compression",
-      "titleSlug": "string-compression",
+    "can-make-arithmetic-progression-from-sequence": {
+      "questionId": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "titleSlug": "can-make-arithmetic-progression-from-sequence",
       "difficulty": "Easy",
       "tags": [
-        "Two Pointers",
-        "String"
+        "Array",
+        "Sorting"
       ],
       "solutions": {
-        "12345class solution {    public int compress(char[] chars) {            }}": {
-          "syncedAt": 1789820956715,
+        "12345class solution {    public boolean canmakearithmeticprogression(int[] arr) {            }}": {
+          "syncedAt": 1789820963891,
           "runtime": "N/A",
           "memory": "N/A",
-          "githubPath": "Two Pointers/String Compression/"
+          "githubPath": "Array/Can Make Arithmetic Progression From Sequence/"
         }
       }
     }
