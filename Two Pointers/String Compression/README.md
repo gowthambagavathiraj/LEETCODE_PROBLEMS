@@ -1,82 +1,63 @@
 # 443. String Compression
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/string-compression/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
 
 ## Problem Statement
 
-Given an array of characters chars, compress it using the following algorithm:
+<p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>
 
-Begin with an empty string s. For each group of consecutive repeating characters in chars:
+<p>Begin with an empty string <code>s</code>. For each group of <strong>consecutive repeating characters</strong> in <code>chars</code>:</p>
 
+<ul>
+	<li>If the group&#39;s length is <code>1</code>, append the character to <code>s</code>.</li>
+	<li>Otherwise, append the character followed by the group&#39;s length.</li>
+</ul>
 
-	If the group's length is 1, append the character to s.
-	Otherwise, append the character followed by the group's length.
+<p>The compressed string <code>s</code> <strong>should not be returned separately</strong>, but instead, be stored <strong>in the input character array <code>chars</code></strong>. Note that group lengths that are <code>10</code> or longer will be split into multiple characters in <code>chars</code>.</p>
 
+<p>After you are done <strong>modifying the input array,</strong> return <em>the new length of the array</em>.</p>
 
-The compressed string s should not be returned separately, but instead, be stored in the input character array chars. Note that group lengths that are 10 or longer will be split into multiple characters in chars.
+<p>You must write an algorithm that uses only constant extra space.</p>
 
-After you are done modifying the input array, return the new length of the array.
+<p><strong>Note: </strong>The characters in the array beyond the returned length do not matter and should be ignored.</p>
 
-You must write an algorithm that uses only constant extra space.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Note: The characters in the array beyond the returned length do not matter and should be ignored.
+<pre>
+<strong>Input:</strong> chars = [&quot;a&quot;,&quot;a&quot;,&quot;b&quot;,&quot;b&quot;,&quot;c&quot;,&quot;c&quot;,&quot;c&quot;]
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The groups are <code>&quot;aa&quot;</code>, <code>&quot;bb&quot;</code>, and <code>&quot;ccc&quot;</code>. This compresses to <code>&quot;a2b2c3&quot;</code>.
+After modifying the input array in-place, the first 6 characters of <code>chars</code> should be <code>[&quot;a&quot;,&quot;2&quot;,&quot;b&quot;,&quot;2&quot;,&quot;c&quot;,&quot;3&quot;]</code>.
+</pre>
 
- 
-Example 1:
+<p><strong class="example">Example 2:</strong></p>
 
-Input: chars = ["a","a","b","b","c","c","c"]
-Output: 6
-Explanation: The groups are "aa", "bb", and "ccc". This compresses to "a2b2c3".
-After modifying the input array in-place, the first 6 characters of chars should be ["a","2","b","2","c","3"].
+<pre>
+<strong>Input:</strong> chars = [&quot;a&quot;]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> The only group is <code>&quot;a&quot;</code>, which remains uncompressed since it is a single character.
+After modifying the input array in-place, the first character of <code>chars</code> should be <code>[&quot;a&quot;]</code>.
+</pre>
 
+<p><strong class="example">Example 3:</strong></p>
 
-Example 2:
+<pre>
+<strong>Input:</strong> chars = [&quot;a&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;,&quot;b&quot;]
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> The groups are <code>&quot;a&quot;</code> and <code>&quot;bbbbbbbbbbbb&quot;</code>. This compresses to <code>&quot;ab12&quot;</code>.
+After modifying the input array in-place, the first 4 characters of <code>chars</code> should be <code>[&quot;a&quot;,&quot;b&quot;,&quot;1&quot;,&quot;2&quot;]</code>.
+</pre>
 
-Input: chars = ["a"]
-Output: 1
-Explanation: The only group is "a", which remains uncompressed since it is a single character.
-After modifying the input array in-place, the first character of chars should be ["a"].
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
+<ul>
+	<li><code>1 &lt;= chars.length &lt;= 2000</code></li>
+	<li><code>chars[i]</code> is a lowercase English letter, uppercase English letter, digit, or symbol.</li>
+</ul>
 
-Example 3:
-
-Input: chars = ["a","b","b","b","b","b","b","b","b","b","b","b","b"]
-Output: 4
-Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".
-After modifying the input array in-place, the first 4 characters of chars should be ["a","b","1","2"].
-
-
- 
-Constraints:
-
-
-	1 <= chars.length <= 2000
-	chars[i] is a lowercase English letter, uppercase English letter, digit, or symbol.
-
-## Examples
-
-```
-Input: chars = ["a","a","b","b","c","c","c"]
-Output: 6
-Explanation: The groups are "aa", "bb", and "ccc". This compresses to "a2b2c3".
-After modifying the input array in-place, the first 6 characters of chars should be ["a","2","b","2","c","3"].
-
-Input: chars = ["a"]
-Output: 1
-Explanation: The only group is "a", which remains uncompressed since it is a single character.
-After modifying the input array in-place, the first character of chars should be ["a"].
-
-Input: chars = ["a","b","b","b","b","b","b","b","b","b","b","b","b"]
-Output: 4
-Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".
-After modifying the input array in-place, the first 4 characters of chars should be ["a","b","1","2"].
-```
-
-## Constraints
-
-- If the group's length is 1, append the character to s.
-- Otherwise, append the character followed by the group's length.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
