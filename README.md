@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 749 | [Contain Virus](./Array/Contain%20Virus/) | Hard |
 | 1502 | [Can Make Arithmetic Progression From Sequence](./Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2395 | [Find Subarrays With Equal Sum](./Array/Find%20Subarrays%20With%20Equal%20Sum/) | Easy |
