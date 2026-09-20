@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-19T12:35:05.338Z",
+  "lastUpdated": "2026-09-20T04:32:37.871Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -486,6 +486,24 @@
           "runtime": "5 ms",
           "memory": "44 MB",
           "githubPath": "Array/Can Make Arithmetic Progression From Sequence/"
+        }
+      }
+    },
+    "reverse-degree-of-a-string": {
+      "questionId": "3498",
+      "title": "Reverse Degree of a String",
+      "titleSlug": "reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Simulation"
+      ],
+      "solutions": {
+        "12345678910class solution {    public int reversedegree(string s) {       int sum=0;       for(int i=0;i<s.length();i++){        int answer='z'-s.charat(i)+1;        sum=sum+answer*(i+1);       }        return sum;    }}": {
+          "syncedAt": 1789878757871,
+          "runtime": "0 ms",
+          "memory": "N/A",
+          "githubPath": "String/Reverse Degree of a String/"
         }
       }
     }
