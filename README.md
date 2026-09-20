@@ -62,6 +62,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
 
 </details>
 
