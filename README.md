@@ -109,6 +109,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Two Pointers
+<details>
+<summary>Click to expand Two Pointers problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
