@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-20T07:45:42.243Z",
+  "lastUpdated": "2026-09-22T08:23:58.594Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -544,6 +544,24 @@
           "runtime": "35 ms",
           "memory": "46.3 MB",
           "githubPath": "Array/Contain Virus/"
+        }
+      }
+    },
+    "make-the-string-great": {
+      "questionId": "1544",
+      "title": "Make The String Great",
+      "titleSlug": "make-the-string-great",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Stack"
+      ],
+      "solutions": {
+        "789101112131415161718192021222324        for (char ch : s.tochararray()) {            if (sb.length() > 0 &&                character.tolowercase(sb.charat(sb.length() - 1)) == character.tolowercase(ch) &&                character.islowercase(sb.charat(sb.length() - 1)) != character.islowercase(ch)) {                sb.deletecharat(sb.length() - 1);            }             else {                sb.append(ch);            }        }        return sb.tostring();    }}```": {
+          "syncedAt": 1790065438594,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "String/Make The String Great/"
         }
       }
     }
