@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-22T09:22:30.279Z",
+  "lastUpdated": "2026-09-23T13:09:46.570Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -581,6 +581,24 @@
           "runtime": "3 ms",
           "memory": "43.2 MB",
           "githubPath": "Two Pointers/Reverse Prefix of Word/"
+        }
+      }
+    },
+    "determine-if-string-halves-are-alike": {
+      "questionId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "titleSlug": "determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Counting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1790168986570,
+          "runtime": "6 ms",
+          "memory": "42.9 MB",
+          "githubPath": "String/Determine if String Halves Are Alike/"
         }
       }
     }
