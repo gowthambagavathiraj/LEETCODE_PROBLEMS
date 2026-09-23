@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T13:09:46.570Z",
+  "lastUpdated": "2026-09-23T13:10:12.542Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -599,6 +599,24 @@
           "runtime": "6 ms",
           "memory": "42.9 MB",
           "githubPath": "String/Determine if String Halves Are Alike/"
+        }
+      }
+    },
+    "first-matching-character-from-both-ends": {
+      "questionId": "3884",
+      "title": "First Matching Character From Both Ends",
+      "titleSlug": "first-matching-character-from-both-ends",
+      "difficulty": "Easy",
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "solutions": {
+        "12345class solution {    public int firstmatchingindex(string s) {            }}": {
+          "syncedAt": 1790169012542,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "Two Pointers/First Matching Character From Both Ends/"
         }
       }
     }

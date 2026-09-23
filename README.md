@@ -117,6 +117,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
+| 3884 | [First Matching Character From Both Ends](./Two%20Pointers/First%20Matching%20Character%20From%20Both%20Ends/) | Easy |
 
 </details>
 
