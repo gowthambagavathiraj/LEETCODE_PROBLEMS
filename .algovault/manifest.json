@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T13:10:40.317Z",
+  "lastUpdated": "2026-09-23T13:10:53.230Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -562,6 +562,12 @@
           "runtime": "N/A",
           "memory": "N/A",
           "githubPath": "String/Make The String Great/"
+        },
+        "12345678910111213141516171819202122class solution {    public string makegood(string s) {        stringbuilder sb = new stringbuilder();        for (char ch : s.tochararray()) {            if (sb.length() > 0 &&                character.tolowercase(sb.charat(sb.length() - 1)) == character.tolowercase(ch) &&                character.islowercase(sb.charat(sb.length() - 1)) != character.islowercase(ch)) {                sb.deletecharat(sb.length() - 1);            }             else {                sb.append(ch);            }        }        return sb.tostring();    }}": {
+          "syncedAt": 1790169053230,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "String/Make The String Great/"
         }
       }
     },
@@ -599,26 +605,6 @@
           "runtime": "6 ms",
           "memory": "42.9 MB",
           "githubPath": "String/Determine if String Halves Are Alike/"
-        }
-      }
-    },
-    "sort-the-people": {
-      "questionId": "2418",
-      "title": "Sort the People",
-      "titleSlug": "sort-the-people",
-      "difficulty": "Easy",
-      "tags": [
-        "Array",
-        "Hash Table",
-        "String",
-        "Sorting"
-      ],
-      "solutions": {
-        "12345class solution {    public string[] sortpeople(string[] names, int[] heights) {            }}": {
-          "syncedAt": 1790169040317,
-          "runtime": "N/A",
-          "memory": "N/A",
-          "githubPath": "Array/Sort the People/"
         }
       }
     }
