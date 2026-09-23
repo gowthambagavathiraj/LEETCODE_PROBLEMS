@@ -26,6 +26,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 749 | [Contain Virus](./Array/Contain%20Virus/) | Hard |
 | 1502 | [Can Make Arithmetic Progression From Sequence](./Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2108 | [Find First Palindromic String in the Array](./Array/Find%20First%20Palindromic%20String%20in%20the%20Array/) | Easy |
 | 2395 | [Find Subarrays With Equal Sum](./Array/Find%20Subarrays%20With%20Equal%20Sum/) | Easy |
 | 3452 | [Sum of Good Numbers](./Array/Sum%20of%20Good%20Numbers/) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
@@ -117,7 +118,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
-| 3884 | [First Matching Character From Both Ends](./Two%20Pointers/First%20Matching%20Character%20From%20Both%20Ends/) | Easy |
 
 </details>
 
