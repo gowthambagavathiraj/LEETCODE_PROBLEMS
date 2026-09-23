@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T13:10:53.230Z",
+  "lastUpdated": "2026-09-23T16:42:30.804Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -605,6 +605,23 @@
           "runtime": "6 ms",
           "memory": "42.9 MB",
           "githubPath": "String/Determine if String Halves Are Alike/"
+        }
+      }
+    },
+    "check-adjacent-digit-differences": {
+      "questionId": "3931",
+      "title": "Check Adjacent Digit Differences",
+      "titleSlug": "check-adjacent-digit-differences",
+      "difficulty": "Easy",
+      "tags": [
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1790181750804,
+          "runtime": "30 ms",
+          "memory": "45.6 MB",
+          "githubPath": "String/Check Adjacent Digit Differences/"
         }
       }
     }
