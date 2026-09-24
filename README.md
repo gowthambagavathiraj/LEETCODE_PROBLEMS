@@ -66,6 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 1796 | [Second Largest Digit in a String](./Hash%20Table/Second%20Largest%20Digit%20in%20a%20String/) | Easy |
 
 </details>
 
