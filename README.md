@@ -52,6 +52,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
+| 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 
 </details>
 
