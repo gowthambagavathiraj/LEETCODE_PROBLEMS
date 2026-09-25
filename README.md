@@ -106,6 +106,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
 | 3498 | [Reverse Degree of a String](./String/Reverse%20Degree%20of%20a%20String/) | Easy |
