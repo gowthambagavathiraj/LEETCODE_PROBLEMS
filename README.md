@@ -22,7 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
+| 240 | [Search a 2D Matrix II](./Array/Search%20a%202D%20Matrix%20II/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 749 | [Contain Virus](./Array/Contain%20Virus/) | Hard |
 | 804 | [Unique Morse Code Words](./Array/Unique%20Morse%20Code%20Words/) | Easy |
