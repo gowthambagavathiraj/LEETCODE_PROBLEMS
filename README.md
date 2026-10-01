@@ -23,12 +23,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
-| 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 749 | [Contain Virus](./Array/Contain%20Virus/) | Hard |
 | 804 | [Unique Morse Code Words](./Array/Unique%20Morse%20Code%20Words/) | Easy |
 | 1502 | [Can Make Arithmetic Progression From Sequence](./Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2395 | [Find Subarrays With Equal Sum](./Array/Find%20Subarrays%20With%20Equal%20Sum/) | Easy |
+| 2824 | [Count Pairs Whose Sum is Less than Target](./Array/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target/) | Easy |
 | 3452 | [Sum of Good Numbers](./Array/Sum%20of%20Good%20Numbers/) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III/) | Easy |
