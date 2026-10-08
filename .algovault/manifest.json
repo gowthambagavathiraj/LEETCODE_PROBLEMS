@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-08T04:00:22.512Z",
+  "lastUpdated": "2026-10-08T04:05:02.916Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -778,6 +778,23 @@
           "runtime": "N/A",
           "memory": "N/A",
           "githubPath": "String/Remove Outermost Parentheses/"
+        }
+      }
+    },
+    "classes-with-at-least-5-students": {
+      "questionId": "596",
+      "title": "Classes With at Least 5 Students",
+      "titleSlug": "classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "solutions": {
+        "mysql": {
+          "syncedAt": 1791432302916,
+          "runtime": "344 ms",
+          "memory": "0B",
+          "githubPath": "Database/Classes With at Least 5 Students/"
         }
       }
     }
