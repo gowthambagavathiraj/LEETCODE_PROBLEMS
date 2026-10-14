@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-14T04:58:19.485Z",
+  "lastUpdated": "2026-10-14T06:08:21.909Z",
   "submissions": {
     "intersection-of-two-arrays": {
       "questionId": "349",
@@ -814,6 +814,24 @@
           "runtime": "3 ms",
           "memory": "68.3 MB",
           "githubPath": "Array/Convert 1D Array Into 2D Array/"
+        }
+      }
+    },
+    "minimize-string-length": {
+      "questionId": "2716",
+      "title": "Minimize String Length",
+      "titleSlug": "minimize-string-length",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1791958101909,
+          "runtime": "12 ms",
+          "memory": "46.3 MB",
+          "githubPath": "Hash Table/Minimize String Length/"
         }
       }
     }
